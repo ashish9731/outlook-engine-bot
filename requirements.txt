@@ -1,0 +1,5 @@
+fastapi
+gunicorn
+msal
+requests
+openai
