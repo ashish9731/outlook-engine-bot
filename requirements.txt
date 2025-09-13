@@ -1,5 +1,6 @@
 fastapi
-gunicorn
+uvicorn[standard]
+gunicorn        # keep if you ever switch back
 msal
 requests
 openai
